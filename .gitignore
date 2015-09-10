@@ -3,4 +3,6 @@
 *.prt
 *.vmx
 
+*.DS_Store
+
 cmp_test.vmf
